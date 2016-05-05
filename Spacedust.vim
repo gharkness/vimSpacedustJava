@@ -1,8 +1,3 @@
-" Tomorrow Night - Full Colour and 256 Colour
-" http://chriskempson.com
-"
-" Hex colour conversion functions borrowed from the theme "Desert256""
-
 " Default GUI Colours
 let s:foreground = "DAD9BB"
 let s:background = "041E23"
