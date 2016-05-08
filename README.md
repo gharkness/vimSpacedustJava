@@ -3,4 +3,4 @@ Space dust vim theme with slightly modified colors, and java syntax highlighting
 
 ![](https://github.com/gharkness/vimSpacedustJava/blob/master/javaScreenshot.png)
 
-![Original Project by MHallendal](https://github.com/mhallendal/spacedust-theme)
+[Original Project by MHallendal](https://github.com/mhallendal/spacedust-theme)
